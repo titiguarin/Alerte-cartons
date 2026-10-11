@@ -7,7 +7,7 @@ CHAT_ID = os.environ["CHAT_ID"]
 EUROPE = {
     "England", "Scotland",
     "Spain", "Italy", "Germany", "France", "Netherlands", "Portugal",
-    "Belgium", "Turkey", "Switzerland", "Greece",  
+    "Belgium", "Turkey", "Switzerland", "Greece"
 }
 
 try:

@@ -5,14 +5,9 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
 
 EUROPE = {
-    "England", "Scotland", "Wales", "Northern-Ireland", "Ireland",
+    "England", "Scotland",
     "Spain", "Italy", "Germany", "France", "Netherlands", "Portugal",
-    "Belgium", "Turkey", "Switzerland", "Austria", "Greece", "Denmark",
-    "Sweden", "Norway", "Finland", "Iceland", "Poland", "Czech-Republic",
-    "Slovakia", "Slovenia", "Croatia", "Serbia", "Bosnia-and-Herzegovina",
-    "Montenegro", "Albania", "Hungary", "Romania", "Bulgaria", "Ukraine",
-    "Russia", "Belarus", "Cyprus", "Luxembourg", "Estonia", "Latvia",
-    "Lithuania", "Moldova", "North-Macedonia", "Kosovo", "Malta",
+    "Belgium", "Turkey", "Switzerland", "Greece",  
 }
 
 try:
